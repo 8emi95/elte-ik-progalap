@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1239343723 source:d:\oktatas\bsc\progalap1tavasz\eloadasok\veletlenek\main.cpp
+	<iostream>
+	<fstream>
+
+1271504380 source:f:\oktat_admi\bsc\progalap1tavasz\ea\veletlenek\main.cpp
+	<iostream>
+	<fstream>
+
+1394291636 source:k:\oktat_admi\bsc\progalap\elõadások14t\veletlenek\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
